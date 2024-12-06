@@ -1,0 +1,25 @@
+.main{
+    /* height: 800px; */
+    /* border: 5px solid black; */
+}
+.a,.b,.c,.d{
+    /* height: 500px; */
+    /* border: 5px solid black; */
+    width: 300px;
+    display: inline-block;
+    vertical-align: top;
+    margin: 10px;
+
+}
+img{
+    width: 100%;
+  
+    
+}
+h3{
+    margin: 0%;
+    font-style: italic;
+}
+p{
+    margin: 0%;
+}
